@@ -41,4 +41,28 @@ Discover part of my training as a developer.
             Scrimba - The Python Bootcamp
         </a>
     </li>
+    <li>
+        <a href="https://v2.scrimba.com/certificate-cert2uNjfKA1wyrbKgaxM7Bt1ewERcYN4TVQrjz">[Certificate]</a> -
+        <a href="https://v2.scrimba.com/learn-react-c0e">
+            Scrimba - The React Bootcamp
+        </a>
+    </li>
+    <li>
+        <a href="https://v2.scrimba.com/certificate-cert24zAwJ78oBfwtVTisKNRdjGqZ48zV8ttYbwYx">[Certificate]</a> -
+        <a href="https://v2.scrimba.com/whats-new-in-react-19-c03d">
+            Scrimba - Update to React 19
+        </a>
+    </li>
+    <li>
+        <a href="https://v2.scrimba.com/certificate-cert2uNjfKA1wyrbKgaxM7Bt5d4EX3ezmCCMe5W">[Certificate]</a> -
+        <a href="https://v2.scrimba.com/build-a-movie-search-app-in-react-c0u">
+            Scrimba - Build a movie search app in React
+        </a>
+    </li>
+    <li>
+        <a href="https://v2.scrimba.com/certificate-cert2uNjfKA1wyrbKgaxM7Bt2Q5o4t8ESbWFAAk">[Certificate]</a> -
+        <a href="https://v2.scrimba.com/learn-class-components-in-react-c0h">
+            Scrimba - Learn class components in React
+        </a>
+    </li>
 </ul>
